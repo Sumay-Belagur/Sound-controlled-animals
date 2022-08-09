@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+}
+
+#heading{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,0) 0%, rgba(35,255,0,0.7399334733893557) 33%, rgba(35,255,0,0.7399334733893557) 66%, rgba(255,222,0,0) 100%);
+}
+
+p{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+h1{
+    color: transparent;
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.993);
+}
+
+span{
+    margin: 100px;
+    font-size: 30px;
+   
+    
+    width: 10px;
+}
+
+#sound_names{
+    background: #ff9966; 
+background: -webkit-linear-gradient(to right, #ff5e62, #ff9966);
+background: linear-gradient(to right, #ff5e62, #ff9966); 
+margin-top: -9px;
+border-radius: 100px;
+border-color: #e44d4f;
+border-width: 2px;
+border-style: double;
+border-right: transparent;
+border-left: transparent;
+width: 1200px;
+
+
+}
+
+
+#iCanHear{
+    font-size: 20px;
+}
+
+#img{
+    height: 300px
+}
+
+
